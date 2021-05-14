@@ -1,0 +1,12 @@
+/* Normalizamos los estilos de la página. */
+@import "normalize.css";
+/* Incluimos las variables de nuestro css. */
+@import "variables.css";
+
+.wrapper {
+
+}
+
+.wrapper__content {
+
+}
