@@ -4,31 +4,41 @@
    --fontBase-2: Inter, Helvetica, sans-serif;
    --fontBase-3: Raleway, Helvetica, sans-serif;
 
-   /* FontStyle */
-   --headeLineXl-1: 700 44px/55.44px var(--fontBase-1);
-   --headeLineXl-2: 700 36px/42.66px var(--fontBase-1);
-   --headeLineXl-3: 700 32px/38.73px var(--fontBase-2);
-   --headeLineXl-4: 700 16px/22.16px var(--fontBase-2);
-   /*mob*/
-   --headeLineSm-1: 700 32px/37.92px var(--fontBase-1);
-   --headeLineSm-2: 700 24px/28.44px var(--fontBase-1);
-   --headeLineSm-3: 700 16.83px/20.37px var(--fontBase-2);
-   /*desk*/
-   --bodyXl-1: 700 18px/21.33px var(--fontBase-1);
-   --bodyXl-2: 700 16px/22px var(--fontBase-2);
-   --bodyXl-3: 700 12px/16.62px var(--fontBase-1);
-   --bodyXl-4: 700 11px/13.04px var(--fontBase-1);
-   --bodyXl-5: 700 10px/11.74px var(--fontBase-1);
-   --bodyXl-6: 700 9px/11.34px var(--fontBase-1);
-   /*mob*/
-   --bodySm-1: 400 18px/21.33px var(--fontBase-1);
-   --bodySm-2: 700 8.41px/11.57px var(--fontBase-2);
-   --bodySm-5: 700 24px/28.18px var(--fontBase-1);
+   /* FontStyle Desktop*/
+   --heading-1: 700 2.75rem/3.465rem var(--fontBase-1);
+   --heading-2: 700 2.25rem/2.66625rem var(--fontBase-1);
+   --heading-3: 700 2rem/2.420625rem var(--fontBase-2);
+   --heading-4: 700 1rem/1.385rem var(--fontBase-1);
+   --body-1: 700 1.125rem/1.333125rem var(--fontBase-1);
+   --body-2: 400 1rem/1.375rem var(--fontBase-2);
+   --body-3: 00 0.75rem/1.03875rem var(--fontBase-1);
+   --body-4: 700 0.6875rem/0.815rem var(--fontBase-1);
+   --body-5: 700 0.625rem/0.73375rem var(--fontBase-3);
+   --body-6: 100 0.5625rem/0.70875rem var(--fontBase-1);
+   /* FontStyle Mobile*/
+   --heading-mob-1: 700 2rem/2.37rem var(--fontBase-1);
+   --heading-mob-2: 700 1.5rem/1.7775rem var(--fontBase-1);
+   --heading-mob-3: 700 1.0625rem/1.273125rem var(--fontBase-2);
+   --heading-mob-4: 700 1rem/1.385rem var(--fontBase-1);
+   --body-mob-1: 100 1.125rem/1.333125rem var(--fontBase-1);
+   --body-mob-2: 400 0.5rem/0.723125rem var(--fontBase-2);
+   --body-mob-3: 100 0.75rem/1.03875rem var(--fontBase-1);
+   --body-mob-4: 700 0.6875rem/0.815rem var(--fontBase-1);
+   --body-mob-5: 700 1.5rem/1.76125rem var(--fontBase-3);
+   --body-mob-6: 100 0.5625rem/0.70875rem var(--fontBase-1);
 
    /* Colors */
-   --oneColor: #1D957F;
-   --twoColor: #000000;
-   --threeColor: #262626;
-   --fourColor: #616161;
-   --fiveColor: #FCFDFE;
+   --primary: #1D957F;
+   --black: #000000;
+   --white: #ffffff;
+   --light-blue: #4285F4;
+   --gray-0: #FCFDFE;
+   --gray-10: #616161;
+   --gray-20: #262626;
+
+   /* Components */
+   --padding-X: 8.125rem;
+   --padding-Y: 0.875rem;
+   --padding-mob-X: 2.875rem;
+   --padding-mob-Y: 0.875rem;
 }
