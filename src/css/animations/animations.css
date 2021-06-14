@@ -1,0 +1,13 @@
+.move-right {
+   animation: 350ms moveRight forwards;
+}
+
+@keyframes moveRight {
+   from {
+      right: 100%;
+   }
+
+   to {
+      right: 0;
+   }
+}

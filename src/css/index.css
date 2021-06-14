@@ -1,2 +1,12 @@
 /* Incluimos nuestro archivo de inicialización. */
 @import "bootstrapping/bootstrapping.css";
+
+/* Components */
+@import "./componets/icon.css";
+@import "./componets/menu.css";
+
+/* Sections */
+@import "./sections/header.css";
+
+/* Animations */
+@import "./animations/animations.css";
