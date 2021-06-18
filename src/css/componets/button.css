@@ -1,0 +1,10 @@
+.btn {
+   padding-block-start: 0.875rem;
+   padding-block-end: 0.875rem;
+   inline-size: 100%;
+   background-color: var(--primaryColor);
+   color: var(--whiteColor);
+   font: var(--body-5);
+   border-radius: 0.3125rem;
+   border: none;
+}

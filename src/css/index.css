@@ -4,9 +4,11 @@
 /* Components */
 @import "./componets/icon.css";
 @import "./componets/menu.css";
+@import "./componets/button.css";
 
 /* Sections */
 @import "./sections/header.css";
+@import "./sections/hero.css";
 
 /* Animations */
 @import "./animations/animations.css";
