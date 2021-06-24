@@ -9,7 +9,7 @@
 }
 
 body {
-   overflow: hidden;
+   /*overflow: hidden;*/
 }
 
 main {
@@ -18,9 +18,10 @@ main {
 }
 
 .wrapper {
-
 }
 
 .wrapper__content {
-
+   max-inline-size: 1152px;
+   margin: 0 auto;
+   overflow: hidden;
 }

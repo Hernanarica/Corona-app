@@ -1,0 +1,16 @@
+.support {
+
+}
+
+.support__card {
+   border: 2px solid var(--primaryColor);
+   border-radius: 0.6875rem;
+}
+
+.support__card-title {
+   font: var(--heading-mob-3);
+}
+
+.support__card-text {
+   font: var(--body-mob-2);
+}
